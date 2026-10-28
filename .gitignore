@@ -1,0 +1,32 @@
+# Local assets, provider records, generated previews, and test artifacts
+/cube_asset/
+/output/
+/.cache/
+
+# Python environments and caches
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+pytest-of-*/
+pytest-cache-files-*/
+.coverage
+htmlcov/
+*.egg-info/
+build/
+dist/
+
+# Credentials and local configuration
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.log
+
+# Editors and operating systems
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
