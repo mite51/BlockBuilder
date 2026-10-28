@@ -1,0 +1,4 @@
+interface:
+  display_name: "Block Builder"
+  short_description: "Create terrain blocks with native images and Meshy"
+  default_prompt: "Use $block-builder to create a terrain block, review each generation, and save a textured mesh with corrected placement bounds."

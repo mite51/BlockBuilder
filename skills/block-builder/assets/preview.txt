@@ -1,0 +1,18 @@
+Use case: stylized-concept
+Create one isolated stylized 3D game asset: a chunky cube-shaped terrain block.
+
+MATERIAL
+{{description}}
+
+Hand-painted cartoon appearance, broad irregular sculpted forms, softly rounded
+corners, shallow readable cracks/pits appropriate to the material, and sparse
+fine detail. Preserve a clear cubic silhouette while allowing small clods,
+stones or roots to protrude. Predominantly matte surfaces with smooth shading
+and crisp sculpted detail. Adapt the surface response appropriately for ice
+or wet mud. Keep it chunky rather than densely granular.
+
+Slightly elevated front-right three-quarter view showing the top and two
+adjoining vertical faces. Soft even studio lighting, pure white background,
+no cast/contact/floor shadows or background gradient. Generous white margins.
+No labels, text, borders, arrows or watermark. Match any supplied style
+references while making the requested material clearly recognizable.

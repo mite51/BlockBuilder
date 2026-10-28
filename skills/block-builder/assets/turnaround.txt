@@ -1,0 +1,42 @@
+Use case: stylized-concept
+Create a square stylized 3D game asset turnaround sheet: a clean 2x2 grid of
+four camera views of ONE IDENTICAL PHYSICAL chunky cube-shaped terrain block.
+Use the accepted preview as the identity reference, preserving its shape,
+palette, material features and sculpted style.
+
+MATERIAL
+{{description}}
+
+Hand-painted cartoon appearance, broad irregular sculpted forms, softly rounded
+corners, shallow readable cracks/pits appropriate to the material, and sparse
+fine detail. Small clods, stones or roots may protrude while the silhouette
+stays clearly cubic. Smooth shading, predominantly matte surfaces, crisp
+sculpted detail, and a polished 3D game aesthetic. Keep texture chunky and
+readable rather than densely granular; adapt gloss/translucency for the material.
+
+VIEW LAYOUT — these are instructions only, NEVER printed labels:
+- Upper left: slightly elevated front-right three-quarter view; top, front,
+  and right vertical faces visible.
+- Upper right: slightly elevated front-left three-quarter view; top, front,
+  and left vertical faces visible.
+- Lower left: LOW rear-left three-quarter view, camera BELOW the upright
+  block looking upward; clearly reveal the BOTTOM, back and left faces.
+- Lower right: LOW rear-right three-quarter view, camera BELOW the upright
+  block looking upward; clearly reveal the BOTTOM, back and right faces.
+
+CONSISTENCY
+These are views of the same physical asset. Every shared face must retain
+exactly the same clod shapes, stones, roots, cracks, colors and surface details
+in the same positions. Do not mirror or independently redesign any face.
+Features crossing edges connect coherently. Top matches between upper views;
+bottom matches between lower views; front matches between upper views; back
+matches between lower views; left and right faces match their corresponding
+upper/lower views. Keep the block upright and move the camera below it for
+the lower views; do not draw the top where the bottom belongs.
+
+Soft even studio lighting with enough fill to keep the underside visible.
+Pure white background, NO cast shadows, contact shadows, floor shadows,
+ground plane or background gradients. All four blocks are the same scale,
+evenly spaced in equal-sized cells, with generous white outer AND internal
+margins so a center split will not cut the objects.
+ABSOLUTELY NO TEXT, VIEW LABELS, PANEL BORDERS, ARROWS OR WATERMARKS.
